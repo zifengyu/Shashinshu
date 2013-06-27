@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">每日写真</string>
+    <string name="action_settings">设置</string>
+    <string name="action_delete_image">删除图片</string>
+    <string name="action_recommend">精品推荐（送积分）</string>
+    <string name="action_feedback">宝贵的意见和建议</string>
+    <string name="photo">写真</string>
+    <string name="ok_button">确定</string>
+    <string name="yes_button">是</string>
+    <string name="no_button">否</string>
+    <string name="photo_damage_message">该写真集已损坏:(</string>
+    <string name="update_message1">更新了</string>
+    <string name="update_message2">张照片</string>
+    <string name="update_message3">正在下载今日更新</string>
+    <string name="update_message4">已达到今日更新上限</string>
+	<string name="wifi_message">WIFI未连接，是否下载图片？</string>
+    
+</resources>
